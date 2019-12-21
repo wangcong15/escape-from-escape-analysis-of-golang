@@ -1,0 +1,3 @@
+[console_scripts]
+Go2IR = go2ir.main:main
+

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Go2IR
+Version: 0.0.1
+Summary: Go2ir is a tool for converting a go language program project into LLVM IR code based on the "gollvm" tool
+Home-page: UNKNOWN
+Author: Cong Wang, Yu Jiang, Jian Gao
+Author-email: wangcong15@mails.tsinghua.edu.cn
+License: Tsinghua Univ. Licence
+Description: UNKNOWN
+Keywords: golang,llvm ir
+Platform: any

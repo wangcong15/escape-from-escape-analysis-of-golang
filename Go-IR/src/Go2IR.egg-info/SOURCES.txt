@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/Go2IR.egg-info/PKG-INFO
+src/Go2IR.egg-info/SOURCES.txt
+src/Go2IR.egg-info/dependency_links.txt
+src/Go2IR.egg-info/entry_points.txt
+src/Go2IR.egg-info/top_level.txt
+src/go2ir/__init__.py
+src/go2ir/common.py
+src/go2ir/main.py
